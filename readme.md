@@ -16,6 +16,12 @@ Go into your project root folder and open a terminal, type `npm install`, wait t
 
 After that type `bower update`, bower will now update bootstrap, jQuery and so on.
 
-Last but not least give composer a quick update by typing `composer update`, if you don't have [Composer](https://getcomposer.org/) installed, install it now, its really helpful.
+Last but not least give composer a quick update by typing `composer update` into your terminal, if you don't have [Composer](https://getcomposer.org/) installed, install it now, its really helpful.
+
+To complete this setup, type `php artisan ide-helper:generate` this command will build up a helper file for your IDE e.g. phpStorm.
 
 Congratulation, your laravel is fine up and running.
+
+## Hint
+
+Try visiting the other repos for usage instructions e.g. for the nice artisan generators.
