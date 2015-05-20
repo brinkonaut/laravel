@@ -1,4 +1,4 @@
-## Laravel PHP Framework with some Dev-Sugar
+## Laravel 5 PHP Framework with some Dev-Sugar
 
 Basic Laravel 5 with some Dev Sugar:
 * [Laravel 5 IDE Helper Generator](https://github.com/barryvdh/laravel-ide-helper)
