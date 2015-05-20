@@ -5,6 +5,7 @@ Basic Laravel 5 with some Dev Sugar:
 * [Laravel 5 Generators](https://github.com/laracasts/Laravel-5-Generators-Extended)
 * [Laravel 5 Bootforms](https://github.com/adamwathan/bootforms)
 * Already configured Laravel Elixier gulpfile, including Bootstrap, JQuery, FontAwesome and your own sass/js files
+* Laravel 5 Html and Form Support
 
 ## Setup
 
