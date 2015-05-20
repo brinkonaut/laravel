@@ -1,8 +1,8 @@
 {
-  "name": "event",
+  "name": "prototype",
   "version": "0.0.0",
   "authors": [
-    "Bernd Zelba <bernd@diese.events>"
+    "Bernd Zelba"
   ],
   "license": "MIT",
   "ignore": [
