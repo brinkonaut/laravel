@@ -1,27 +1,19 @@
-## Laravel PHP Framework
+## Laravel PHP Framework with some Dev-Sugar
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+Basic Laravel 5 with some Dev Sugar:
+*[Laravel 5 IDE Helper Generator](https://github.com/barryvdh/laravel-ide-helper)
+*[Laravel 5 Generators](https://github.com/laracasts/Laravel-5-Generators-Extended)
+*[Laravel 5 Bootforms](https://github.com/adamwathan/bootforms)
+*Already configured Laravel Elixier gulpfile, including Bootstrap, JQuery, FontAwesome and your own sass/js files
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+## Setup
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+You need [node.js](https://nodejs.org/), if you have it already go on.
 
-## Official Documentation
+Go into your project root folder and open a terminal, type ***npm install***, wait till everything has been installed (needed node.js modules will now be installed).
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+After that type ***bower update***, bower will now update bootstrap, jQuery and so on.
 
-## Contributing
+Last but not least give composer a quick update by typing ***composer update***, if you don't have [Composer](https://getcomposer.org/) installed, install it now, its really helpful.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+Congratulation, your laravel is fine up and running.
