@@ -25,3 +25,7 @@ Congratulation, your laravel is fine up and running.
 ## Hint
 
 Try visiting the other repos for usage instructions e.g. for the nice artisan generators.
+
+##Troubleshooting
+
+If composer update fails to execute, try to remove `Illuminate\Broadcasting\BroadcastServiceProvider` from your providers array in your config, then update with composer, then place it back into your providers array.
